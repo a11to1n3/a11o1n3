@@ -1,5 +1,5 @@
-<h1 align="center">Good day 👋. Welcome to my github. My name is Duy Anh Pham (in Vietnamese: Pham Anh Duy)</h1>
-<h3 align="center">A machine learning researcher wannabe</h3>
+<h1 align="center">Good day 👋. Welcome to my github. My name is Duy Anh Pham</h1>
+<h3 align="center">Machine learning researcher</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a11to1n3" alt="a11to1n3" /> </p>
 
