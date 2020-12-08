@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a11to1n3" alt="a11to1n3" /> </p>
 
-- 🔭 I’m currently working on [Statistical filter for short-term load forecasting deep learning models](https://github.com/a11to1n3/StatFilterAppliedInSTLFDeeplearning)
-
 - 🌱 I’m currently learning **Explainable methods for deep learning**
 
 - 👯 I’m looking to collaborate on [Chemometrics analysis with Deep learning](https://github.com/a11to1n3/VIS-Chemometrics-MLDL)
