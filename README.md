@@ -1,4 +1,4 @@
-<h1 align="center">Good day 👋. Welcome to my github. My name is Duy Anh Pham</h1>
+<h1 align="center">Duy Anh Pham</h1>
 <h3 align="center">Machine learning researcher</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a11to1n3" alt="a11to1n3" /> </p>
@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Explainable Deep learning methods on multivariate time series data**
 
-- 💬 Ask me about **Tensorflow, Time series analysis, Deep learning**
+- 💬 Ask me about **Time series analysis, Deep learning**
 
 - 📫 How to reach me **duyanhpham@outlook.com**
 
