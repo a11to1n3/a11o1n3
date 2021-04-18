@@ -1,15 +1,11 @@
 <h1 align="center">Duy Anh Pham</h1>
 <h3 align="center">Machine learning researcher</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=a11to1n3" alt="a11to1n3" /> </p>
-
 - 🌱 I’m currently learning **Explainable methods for deep learning**
 
 - 👯 I’m looking to collaborate on [Chemometrics analysis with Deep learning](https://github.com/a11to1n3/VIS-Chemometrics-MLDL)
 
-- 🤝 I’m looking for help with **Explainable Deep learning methods on multivariate time series data**
-
-- 💬 Ask me about **Time series analysis, Deep learning**
+- 🤝 I’m looking for help with [Explainable Deep learning methods on multivariate time series data](https://github.com/a11to1n3/XAI-Multivariate-Time-Series)
 
 - 📫 How to reach me **duyanhpham@outlook.com**
 
